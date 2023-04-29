@@ -9,6 +9,5 @@ sudo wget https://github.com/PHPINTERN/PHP/archive/refs/heads/FILE.zip
 sudo unzip FILE.zip
 sudo mv PHP-FILE html
 sudo rm FILE.zip
-cd .. 
-sudo rm main.zip
-sudo rm -r sh-main
+cd .. ; sudo rm main.zip ; sudo rm -r sh-main
+
